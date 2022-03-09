@@ -38,7 +38,7 @@ ct5_channel = 7             # 3.5mm Input #2        | Unused
 
 # The values from running the software in "phase" mode should go below!
 ct_phase_correction = {
-    'ct0' : 1.71340443, # 1
+    'ct0' : 1.71340443, # 
     'ct1' : 1,
     'ct2' : 1,
     'ct3' : 1,
